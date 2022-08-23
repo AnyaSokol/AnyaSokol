@@ -9,7 +9,7 @@
 - Senior software engineer at Core team at Cube Dev [https://cube.dev/careers/senior-software-engineer-cube-core].
 
 
-Мой телеграм: t.me/AnyaSokol. 
+Мой телеграм: https://t.me/AnyaSokol. 
 
 <!--
 **AnyaSokol/AnyaSokol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
