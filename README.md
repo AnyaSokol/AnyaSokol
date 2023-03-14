@@ -4,10 +4,6 @@
 
 Если я вас зафоловила, значит мне интересно пообщаться по какой-то из моих вакансий. Если вы при этом открыты к предложениям или в поиске работы - напишите мне. 
 
-Сейчас в поиске:
-- Principal software engineer at open-source project at Cube Dev [https://cube.dev/careers/principal-software-engineer-sql-api].
-- Senior software engineer at Core team at Cube Dev [https://cube.dev/careers/senior-software-engineer-cube-core].
-
 
 Мой телеграм: https://t.me/AnyaSokol. 
 
