@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-Я IT рекрутер.  
+I’m an IT recruiter working with startups.
 
-Если я вас зафоловила, значит мне интересно пообщаться по какой-то из моих вакансий. Если вы при этом открыты к предложениям или в поиске работы - напишите мне. 
+If I’ve followed you, I probably thought you could be a great match for one of my roles.
+Open to opportunities? — message me anytime.
 
-
-Мой телеграм: https://t.me/AnyaSokol. 
+Telegram: https://t.me/AnyaSokol
+ 
 
 <!--
 **AnyaSokol/AnyaSokol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
